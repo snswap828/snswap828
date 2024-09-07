@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swapnil Nandanwar
+- 👋 Hi, I’m Swapnil
 - 👀 I’m interested in Mobile and Web projects 
 - 🌱 I’m currently learning flutter, React Native
 - 📫 To reach me on mobile: 9096363612,Email:swapnil.nandanwar8@gmail.com
